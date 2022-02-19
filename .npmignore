@@ -1,0 +1,13 @@
+# test
+spec
+src/**/*.spec.js
+
+# build
+rollup.config.js
+jsconfig.json
+
+# dev
+.theia
+.vscode
+.idea
+.DS_Store
